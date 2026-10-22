@@ -1,0 +1,6 @@
+# Vercel only needs api/ and package.json. Without this it would also serve
+# the Android source as static files.
+android/
+test/
+scripts/
+.github/

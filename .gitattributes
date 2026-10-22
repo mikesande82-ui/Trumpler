@@ -1,0 +1,4 @@
+# Keep the Gradle wrapper runnable however the repo is checked out (Windows included).
+gradlew text eol=lf
+*.bat text eol=crlf
+*.jar binary

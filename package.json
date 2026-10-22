@@ -1,0 +1,16 @@
+{
+  "name": "rambler",
+  "private": true,
+  "type": "module",
+  "description": "The Rambler server: one Vercel function, api/ramble.js, that turns a message into a ramble with Claude.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test",
+    "try": "node scripts/try.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^1.1.0"
+  }
+}

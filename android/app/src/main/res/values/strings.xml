@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rambler</string>
+    <string name="process_text_label">Ramble</string>
+    <string name="tagline">Turn any message into a long, winding ramble. Select text in any app and tap Ramble, or try it here.</string>
+    <string name="input_hint">Type a message…</string>
+    <string name="how_much">How much?</string>
+    <string name="level_light">Light</string>
+    <string name="level_medium">Medium</string>
+    <string name="level_full">Full weave</string>
+    <string name="go">Ramble it</string>
+    <string name="copy">Copy</string>
+    <string name="copied">Copied</string>
+    <string name="again">Again</string>
+    <string name="replace">Replace</string>
+    <string name="type_something">Type something first</string>
+
+    <string name="note_offline">Offline phrase book</string>
+    <string name="note_ai">Written by Claude</string>
+    <string name="note_unreachable">couldn\'t reach the server</string>
+    <string name="note_fell_back">Offline phrase book (%1$s)</string>
+
+    <string name="how_to_title">Use it anywhere</string>
+    <string name="how_to">1. In any app, select the text you want rambled.\n2. In the menu that pops up, tap ⋮ or More, then Ramble.\n3. Tap Replace to swap your text for the ramble, or Copy.\n\nReplace works in boxes you\'re typing in. For text you can\'t edit, like someone else\'s message, use Copy.</string>
+
+    <string name="ai_title">AI rambles</string>
+    <string name="ai_explain">Without a server, Rambler uses its built-in phrase book. For AI rambles, deploy the Rambler server (the README in the repo walks through it) and enter its address and app key here.</string>
+    <string name="server_hint">https://your-project.vercel.app/api/ramble</string>
+    <string name="key_hint">App key</string>
+    <string name="use_ai">Use AI when the server is set up</string>
+    <string name="save">Save</string>
+    <string name="saved">Saved</string>
+    <string name="needs_https">The address must start with https://</string>
+</resources>
